@@ -5,7 +5,7 @@ Repositorio con implementaciones de métodos numéricos en Python.
 ## Métodos Implementados
 
 ### ✅ Integración Numérica
-- [Método del Trapecio y Simpson](/trapecio_y_simpson/)
+- Método del Trapecio y Simpson
 
 ## Próximos métodos
 - Bisección
